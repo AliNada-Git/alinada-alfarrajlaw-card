@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:ندا;علي;بن محمد;;
+FN:علي بن محمد ندا
+ORG:شركة عمر بن عبدالعزيز الفراج للمحاماة
+TITLE:مدير تطوير الأعمال والمشاريع
+TEL;TYPE=CELL,VOICE:+966532041429
+EMAIL;TYPE=INTERNET,WORK:ali@alfarrajlaw.co
+URL;TYPE=WORK:https://alfarrajlaw.co/
+item1.URL:https://www.linkedin.com/in/ali-m-nada
+item1.X-ABLabel:LinkedIn
+END:VCARD
